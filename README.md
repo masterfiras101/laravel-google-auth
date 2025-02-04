@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-    <img src="![image](https://github.com/user-attachments/assets/04e2af8f-8c6b-4576-85aa-a9ebef030b26)" width="400" alt="Google cloud Logo">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Flaravel-icon%2F&psig=AOvVaw0-re1bkFmNUKb4N9urEl0L&ust=1738773890107000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjPhbu8qosDFQAAAAAdAAAAABAE" width="400" alt="Google cloud Logo">
 </a>
 </p>
 
