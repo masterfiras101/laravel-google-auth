@@ -1,9 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![user-model-google-auth-method](https://github.com/user-attachments/assets/5d384ab9-6d30-4788-b5e9-b49a86a96b5b)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
 ## Laravel ( Google Auth )
 
-### Screenshots
+### Screenshots => Google Cloud 
 
 ![step_1](https://github.com/user-attachments/assets/c44458b6-eacf-4eb2-93c9-d531d09f19ba)
 ![step_2](https://github.com/user-attachments/assets/ef904274-7b7f-4404-a869-4b3468661bd8)
@@ -22,7 +22,14 @@
 ![step_14](https://github.com/user-attachments/assets/4d6066a4-5913-46d0-8434-db9fc3770613)
 ![step_15](https://github.com/user-attachments/assets/64449512-6133-43bb-9fab-d348fee727ed)
 
+### Screenshots => Laravel 
 
+![env-google-auth-method](https://github.com/user-attachments/assets/3f2ad8ea-4fa8-48a4-a4ff-fc6d40a0c56f)
+![config-services-google-auth-method](https://github.com/user-attachments/assets/a6ac96e5-3a25-4309-9be6-28bffbfb47bc)
+![routes-google-auth-method](https://github.com/user-attachments/assets/de02b52e-2f15-4a5f-b041-bb71a7708cbf)
+![test-callback-method](https://github.com/user-attachments/assets/1378ec1b-2b10-4a8e-a4ca-52f42dccb498)
+![user-model-google-auth-method](https://github.com/user-attachments/assets/d683c52e-df4c-4543-9667-cdf41d3f652e)
+![users-table-google-auth-method](https://github.com/user-attachments/assets/299c7b2a-11b7-432c-b1aa-99cc39df1d5d)
 
 
 
