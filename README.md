@@ -1,4 +1,11 @@
-![user-model-google-auth-method](https://github.com/user-attachments/assets/5d384ab9-6d30-4788-b5e9-b49a86a96b5b)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center">
+<a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+    <img src="![image](https://github.com/user-attachments/assets/04e2af8f-8c6b-4576-85aa-a9ebef030b26)" width="400" alt="Google cloud Logo">
+</a>
+</p>
+
+
 
 
 ## Laravel ( Google Auth )
