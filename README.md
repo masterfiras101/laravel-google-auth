@@ -5,6 +5,7 @@
 <a href="https://google.com" target="_blank">
 <img src="https://i.postimg.cc/BnxPFj1x/google-icon-logo-svgrepo-com.png" width="400" alt="Google cloud Logo">
 </a>
+    <a href="https://postimg.cc/XrYvS7LJ" target="_blank"><img src="https://i.postimg.cc/XrYvS7LJ/google-icon-logo-svgrepo-com.png" alt="google-icon-logo-svgrepo-com"/></a> 
 </p>
 
 
